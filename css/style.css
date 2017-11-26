@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+body{
+    background-image: url("../images/background.jpg");
+    background-repeat: repeat;
+    width: 100%;
+}
+.Content{
+    margin: 0 auto;
+    width: 1000px;
+}
+.Header{
+    width: 900px;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 120px;
+    background-color: #f2ece0;
+}
+.Logo{
+    border-image: none;
+    width: 185px;
+    text-align: left;
+}
+h1{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
