@@ -69,14 +69,21 @@ body{
 .registration_section a:hover{
     color:red;
 }
-.Menu ul{
-    text-decoration: none;
-    float: left;
-
-}
 .Menu a{
+    font-family: 'Crimson Text', serif;
+    font-size: 30px;
+    font-weight: bold;
     text-decoration: none;
     float: left;
     color: #1f2222;
-
+    padding-top: 75px;
+    padding-left: 30px;
+    margin: 10px;
+}
+.Menu a:hover{
+    color:red;
+}
+.Search{
+    padding-top: 75px;
+    margin-left: 10px;
 }
